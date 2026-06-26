@@ -11,3 +11,4 @@ This offline mode is meant for learning and reproducibility. It does not replace
 ## Current Labs
 
 - `In-Context Learning and Prompt Templates-v3-GenAIcourse.ipynb`: Prompt engineering basics, in-context learning techniques, and LangChain prompt templates with local offline execution support.
+- `Build Smarter AI Apps Empower LLMs with LangChain.ipynb`: Core LangChain concepts, including models, chat messages, prompt templates, output parsers, documents, retrieval, memory, chains, tools, and agents with local offline execution support.
